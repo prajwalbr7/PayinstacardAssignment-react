@@ -1,0 +1,66 @@
+.StudentSpecialContainer {
+  width: 60%;
+  margin-top: 200px;
+  left: 378px;
+  gap: 32px;
+  align-self: center;
+}
+.ColumnCenter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.StudentSpecialHeading {
+  width: 688px;
+  height: 96px;
+  font: Inter;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+}
+.StudentSpecialPara {
+  width: 423px;
+  height: 44px;
+  font: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.StudentSpecialUlStyling {
+  width: 100%;
+  height: 19px;
+  top: 5383px;
+  left: 196px;
+  gap: 19px;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.StudentSpecialList {
+  font: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  height: 19px;
+}
+
+.FontBold {
+  font-weight: 600;
+}
+.RowFinalUlStyling {
+  display: flex;
+}
+.border {
+  height: 19px;
+  border: 1px solid #2d2e2e;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+}

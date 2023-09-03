@@ -1,0 +1,174 @@
+.BookNowMainContainer {
+  width: 80%;
+  align-self: center;
+  margin-top: 100px;
+}
+.ContainerSubBookNow {
+  height: 780.2836303710938px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.Group167 {
+  width: 542px;
+  height: 700.2836303710938px;
+}
+.BookNowFormContainer {
+  width: 420.23px;
+  height: 600.42px;
+  margin-right: 100px;
+  border-radius: 23.34630584716797px;
+  box-shadow: 0px 4.424776077270508px 6.210212707519531px 0px #00000007;
+  box-shadow: 0px 14.861903190612793px 20.858810424804688px 0px #0000000b;
+  box-shadow: 0px 66.53697204589844px 93.38522338867188px 0px #00000012;
+}
+.FormTopContainer {
+  width: 420.23px;
+  height: 146.56px;
+  padding: 29.182880401611328px;
+  gap: 11.673152923583984px;
+}
+.FormHeadingBookNow {
+  height: 38px;
+  font: Roboto;
+  font-size: 33px;
+  font-weight: 900;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+.FormParaBookNow {
+  width: 361.8677062988281px;
+  height: 38.521400451660156px;
+  font: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.5836576223373413px;
+  text-align: left;
+  color: #282828;
+}
+.FormInputFiledsContainer {
+  width: 420.23px;
+  height: 349.48px;
+  padding: 29.182880401611328px;
+  gap: 17.509729385375977px;
+}
+.CityContainer {
+  width: 361.87px;
+  height: 85.37px;
+  margin-top: 5.836576461791992px;
+  display: flex;
+  flex-direction: column;
+}
+.cityLabelStyle {
+  width: 30px;
+  height: 27px;
+  font: Roboto;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 0.5836576223373413px;
+  text-align: left;
+  color: #000000;
+}
+.CityInputStyle {
+  width: 100%;
+  height: 52.53px;
+  padding: 0px 0px 0px 17.509729385375977px;
+  border-radius: 11.673152923583984px;
+  border-width: 0px;
+  background-color: #f3f3f3;
+  color: #000000;
+  outline: none;
+}
+.ArrivalAndDepartureContainer {
+  width: 361.87px;
+  height: 85.37px;
+  margin-top: 11.673152923583984px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ArrivalContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.ArrivalInputFiled {
+  width: 175.1px;
+  height: 52.53px;
+  padding: 0px 0px 0px 17.509729385375977px;
+  border-radius: 11.673152923583984px;
+  border-width: 0px;
+  background-color: #f3f3f3;
+  color: #000000;
+  outline: none;
+}
+.ButtonContainer {
+  width: 175.1px;
+  height: 52.53px;
+  border-radius: 11.673152923583984px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #f3f3f3;
+}
+.buttonStyle1 {
+  width: 44.36px;
+  height: 52.53px;
+  padding: 15.175098419189453px;
+  border-radius: 11.673152923583984px 0px 0px 11.673152923583984px;
+  background-color: #ebebeb;
+  color: #000000;
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+}
+.buttonStyle2 {
+  width: 44.36px;
+  height: 52.53px;
+  padding: 15.175098419189453px;
+  border-radius: 0px 11.673152923583984px 11.673152923583984px 0px;
+  background-color: #ebebeb;
+  color: #000000;
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+}
+.ButtonCounterPara {
+  font: Roboto;
+
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.5836576223373413px;
+  text-align: left;
+  width: 8px;
+  height: 27px;
+  color: #78858f;
+  background-color: #f3f3f3;
+  gap: 15.175098419189453px;
+}
+.ButtonContainerFinal {
+  width: 420.23px;
+  height: 104.38px;
+  padding: 29.182880401611328px;
+}
+.ButtonSubmitStyle {
+  height: 46.02px;
+  padding: 14.007782936096191px 18.677043914794922px 14.007782936096191px
+    18.677043914794922px;
+  border-radius: 4.6692609786987305px;
+  font: Roboto;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 18px;
+  letter-spacing: 1.2607004642486572px;
+  text-align: center;
+  color: #ffffff;
+  outline: none;
+  cursor: pointer;
+  background-color: #000000;
+  border-width: 0px;
+}

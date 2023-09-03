@@ -1,0 +1,60 @@
+.DestinationMainContainer {
+  width: 85%;
+  align-self: center;
+  height: 800px;
+}
+.DestinationHeading {
+  font: Inter;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  margin-left: 35px;
+}
+.DestinationImageListContainer {
+  background-color: #ffffff;
+  box-shadow: 0px -0.274791419506073px 2.7479140758514404px 0px #00000006;
+  box-shadow: 0px -0.6949681043624878px 6.949680805206299px 0px #00000008;
+  box-shadow: 0px -1.4176697731018066px 14.176697731018066px 0px #0000000a;
+  box-shadow: 0px -2.9201316833496094px 29.201316833496094px 0px #0000000c;
+  box-shadow: 0px -8px 80px 0px #00000012;
+}
+
+.DestinationImg {
+  width: Fill (360px);
+  height: Fill (327px);
+  border-radius: 20px;
+}
+.sliderContainer {
+  width: 1300px;
+  border-radius: 20px;
+  padding: 30px;
+}
+.DestinationParaIcon {
+  width: 350px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ListDestinationHeading {
+  height: 33px;
+  font: Roboto;
+  font-size: 28px;
+  font-weight: 900;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: Fill (360px);
+}
+.ListDestinationPara {
+  font: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}

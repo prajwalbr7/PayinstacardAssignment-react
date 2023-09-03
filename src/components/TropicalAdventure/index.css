@@ -1,0 +1,169 @@
+.TropicalMainContainer {
+  width: 1091px;
+  height: 800px;
+  top: 1114px;
+  left: 241px;
+  border-radius: 20px;
+  margin-top: 10px;
+  align-self: center;
+}
+.TropicalSubContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.SubtractCircle1 {
+  width: 168px;
+  height: 168px;
+}
+
+.CircleContainer {
+  text-align: right;
+}
+.UlStylingTropicalAdvantage {
+  width: 360px;
+  height: 490px;
+  top: 1282px;
+  left: 241px;
+  border-radius: 20px;
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.listStylingTropicalAdvantage {
+  width: Hug (360px);
+  height: Hug (130px);
+  top: 1282px;
+  left: 241px;
+  border-radius: 20px;
+  gap: 10px;
+  box-shadow: 0px 3.1255478858947754px 5.925629615783691px 0px #00000009;
+  box-shadow: 0px 47px 152px 0px #00000017;
+  background-color: #ffffff;
+  padding: 10px;
+}
+.listHeadingParaContainer {
+  width: Fill (220px);
+  height: Hug (70px);
+  gap: 3px;
+  margin-left: 10px;
+}
+.avatarTropicalAdvantage {
+  width: Hug (80px);
+  height: Hug (80px);
+}
+.listImgHeadingParaContainerTropical {
+  display: flex;
+  align-items: center;
+  width: Fill (310px);
+  height: Fill (80px);
+}
+.listHeadingTropical {
+  font: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  width: 108px;
+  height: 21px;
+  margin: 2px;
+}
+.listParaTropical {
+  font: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  width: 220px;
+  height: 46px;
+  color: #000000;
+  margin: 0px;
+}
+.Ellipse56 {
+  width: 93px;
+  height: 93px;
+  top: 1270px;
+  left: 849px;
+}
+
+.TropicalStudentMainContainer {
+  width: Hug (447px);
+  height: Hug (397px);
+  top: 1333px;
+  left: 852px;
+  gap: 60px;
+  align-self: center;
+}
+.ContainerHeadingParaListElements {
+  width: Hug (447px);
+  height: Hug (286px);
+  gap: 20px;
+}
+.HeadingTropicalStudent {
+  width: 368px;
+  height: 82px;
+  font: Inter;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.HeadingTropicalStudentSpan {
+  font: Inter;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.ParaTropicalStudent {
+  width: 447px;
+  height: 24px;
+  font: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+.UlContainerStudentTropical {
+  padding: 0px;
+}
+.listStudentTropical {
+  margin-left: 25px;
+  width: Hug (248px);
+  height: Hug (150px);
+  gap: 10px;
+  font: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+.TropicalStudentButton {
+  width: Hug (200px);
+  height: Hug (51px);
+  padding: 16px 50px 16px 50px;
+  border-radius: 30px;
+  gap: 16px;
+  background: #f27a44;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+  font: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
